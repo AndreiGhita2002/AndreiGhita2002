@@ -12,7 +12,7 @@ MSci Computing Science student at the University of Glasgow, interested in syste
 
 ## 📌 Featured Projects
 
-**Model Runner** (Private)** - My current Master's disseration, where I investigate ways of speeding up neural network runtimes on distributed systems. Will be made public after I receive my grade. 
+**Model Runner** (Private) - My current Master's disseration, where I investigate ways of speeding up neural network runtimes on distributed systems. Will be made public after I receive my grade. 
 
 **[uxn-on-gpu](https://github.com/AndreiGhita2002/uxn-on-gpu)** — GPU-based implementation of the Uxn virtual machine. My bachelor's dissertation exploring VM execution directly on GPU kernels using Vulkan and SPIR-V.
 
