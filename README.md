@@ -1,8 +1,8 @@
-# Hi, I'm Andrei 👋
+# Hi, I'm Andrei
 
 MSci Computing Science student at the University of Glasgow, interested in systems programming, GPU computing, and machine learning infrastructure.
 
-## 🔧 What I'm interested in 
+## What I'm interested in 
 
 - **Systems & GPU Programming** - C/C++, Rust, Vulkan, CUDA, GLSL
 - **ML Infrastructure** - PyTorch pipeline optimization, distributed inference
@@ -10,7 +10,7 @@ MSci Computing Science student at the University of Glasgow, interested in syste
 - **Game Dev** - Unity, XR/VR stuff, game engine design
 - **Conversational Interfaces** - How can LLMs be used to provide users with new way of interacting with systems? 
 
-## 📌 Featured Projects
+## Featured Projects
 
 **Model Runner** (Private) - My current Master's disseration, where I investigate ways of speeding up neural network runtimes on distributed systems. Will be made public after I receive my grade. 
 
@@ -24,7 +24,7 @@ MSci Computing Science student at the University of Glasgow, interested in syste
 
 **[neuro_arcade](https://github.com/nathanlogie/neuro_arcade)** — Django/React games platform built for the UofG School of Psychology.
 
-## 📫 Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-iuliu-ghita-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andrei.ghita2002@gmail.com)
